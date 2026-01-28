@@ -118,7 +118,7 @@ ASCIImator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aryan-r03/ASCIImator.git
+git clone https://github.com/Akki120781/ascii.git
 cd ASCIImator
 ```
 
@@ -338,7 +338,7 @@ This project is licensed under the MIT License.
 ```
 MIT License
 
-Copyright (c) 2025 Aryan Ranjan
+Copyright (c) 2025 Akshat Soni
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -387,5 +387,5 @@ Free to use, modify, and distribute.
 </p>
 
 <p align="center">
-  Made with ❤️ by Aryan Ranjan | Star ⭐ this repo if you found it helpful!
+  Made with ❤️ by Akshat Soni | Star ⭐ this repo if you found it helpful!
 </p>
