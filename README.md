@@ -362,16 +362,16 @@ Free to use, modify, and distribute.
 ## 📧 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-ranjan03">
+  <a href="https://www.linkedin.com/in/akshat-12-soni/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aryanr.ranjan@gmail.com">
+  <a href="mailto:akshatsoni5380@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://github.com/aryan-r03">
+  <a href="https://github.com/Akki120781">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/__aryan_.r03">
+  <a href="https://instagram.com/akshat_soni_12">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
