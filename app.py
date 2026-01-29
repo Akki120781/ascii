@@ -5,7 +5,7 @@ import numpy as np
 
 def convert_frame_to_ascii(frame, width=100):
 
-    ascii_chars = " .:;+=*#@MW$" # for medium grade detailing using ASCII
+    ascii_chars = " .'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$" # for medium grade detailing using ASCII
 
     height = int(frame.shape[0] * width / frame.shape[1] / 2)
     if height == 0:
@@ -50,7 +50,7 @@ def play_video_in_pygame(video_path, audio_path=None, char_width=100, font_size=
     window_width = char_width * (font_size // 4 + 4)
     window_height = char_height * font_size
     screen = pygame.display.set_mode((window_width, window_height))
-    pygame.display.set_caption("Rehaman Dakait")
+    pygame.display.set_caption("Akshat's Real-Time ASCII Video Player")
 
 
     try:
@@ -121,7 +121,7 @@ def play_video_in_pygame(video_path, audio_path=None, char_width=100, font_size=
 
 
 if __name__ == "__main__":
-    VIDEO_PATH = "video.mp4" # insert video path
+    VIDEO_PATH = "C:\\Users\\asus\\Downloads\\282995_small.mp4" # insert video path
     AUDIO_PATH = "audio.mp3" # insert audio path
     CHAR_WIDTH = 100
     FONT_SIZE = 10
